@@ -1,0 +1,16 @@
+{
+  "name": "lat_long_to_address_webcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^92.0.2",
+    "selenium-webdriver": "^4.0.0-rc-1"
+  }
+}

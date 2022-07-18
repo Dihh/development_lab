@@ -1,0 +1,4 @@
+node_modules
+client_secret.json
+ocr-api.json
+img/*

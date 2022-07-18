@@ -1,0 +1,19 @@
+{
+  "name": "readscreen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-extract-frames": "^2.0.2",
+    "node-tesseract-ocr": "^2.2.1",
+    "record-screen": "^3.18.0",
+    "sharp": "^0.28.3"
+  }
+}
